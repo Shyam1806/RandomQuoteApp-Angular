@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RandomQuoteApp"
+    }
+  },
+  "defaultProject": "RandomQuoteApp",
+  "cli": {
+    "analytics": false
+  }
 }
